@@ -2,6 +2,8 @@
 title: Linux 目录结构
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnA8g
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/5'
 ---
 
 # Linux 目录结构
