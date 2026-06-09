@@ -2,6 +2,8 @@
 title: Linux 安装指南
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnA6L
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/4'
 ---
 
 如果你是第一次安装 Linux，推荐从桌面版发行版开始，例如：Ubuntu、Linux Mint 或 Fedora。
