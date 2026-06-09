@@ -2,6 +2,8 @@
 title: Linux 简介
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnAwT
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/1'
 ---
 
 # Linux 简介
