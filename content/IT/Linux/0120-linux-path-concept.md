@@ -2,6 +2,8 @@
 title: Linux 绝对路径与相对路径
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnB1P
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/12'
 ---
 
 # Linux 绝对路径与相对路径
