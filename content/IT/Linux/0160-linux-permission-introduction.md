@@ -2,6 +2,8 @@
 title: Linux 权限简介
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnB6D
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/16'
 ---
 
 # Linux 权限简介
