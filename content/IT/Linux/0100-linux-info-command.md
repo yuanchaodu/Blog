@@ -2,6 +2,8 @@
 title: Linux info 命令详解
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnB0F
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/10'
 ---
 
 # Linux info 命令详解
