@@ -2,6 +2,8 @@
 title: Linux rmdir 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnCQs
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/27'
 ---
 
 # Linux rmdir 命令
