@@ -2,6 +2,8 @@
 title: Linux Shell 类型介绍
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnB8d
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/19'
 ---
 
 # Linux Shell 类型介绍
