@@ -2,6 +2,8 @@
 title: Linux 文件系统
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnB0v
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/11'
 ---
 
 # Linux 文件系统
