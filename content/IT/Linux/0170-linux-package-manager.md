@@ -2,6 +2,8 @@
 title: Linux 软件包管理概述
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnB7Q
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/17'
 ---
 
 # Linux 软件包管理概述
