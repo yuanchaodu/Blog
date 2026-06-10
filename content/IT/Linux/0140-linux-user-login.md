@@ -2,6 +2,8 @@
 title: Linux 用户登录机制
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnB3e
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/14'
 ---
 
 # Linux 用户登录机制
