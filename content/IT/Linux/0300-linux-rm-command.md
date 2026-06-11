@@ -2,6 +2,8 @@
 title: Linux rm 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnDRo
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/30'
 ---
 
 # Linux rm 命令
