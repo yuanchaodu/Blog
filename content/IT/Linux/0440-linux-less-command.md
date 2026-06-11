@@ -2,6 +2,8 @@
 title: Linux less 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnD7M
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/44'
 ---
 
 # Linux less 命令
