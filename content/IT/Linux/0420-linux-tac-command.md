@@ -2,6 +2,8 @@
 title: Linux tac 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnDli
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/42'
 ---
 
 # Linux tac 命令
